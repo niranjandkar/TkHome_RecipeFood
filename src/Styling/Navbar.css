@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+.nav-bar {
+    background-color: #333;
+    color: #e6e6e6;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-logo {
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+    color: #ff6f61;
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo i {
+    margin-right: 8px;
+    color: #ff6f61;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links li {
+    position: relative;
+}
+
+.nav-links li a {
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 0.5rem;
+    color: #e6e6e6;
+    transition: color 0.3s ease;
+}
+
+.nav-links li a:hover {
+    color: #ff6f61;
+}
+
+.nav-links li::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #ff6f61;
+    transition: width 0.3s ease;
+}
+
+.nav-links li:hover::after {
+    width: 100%;
+}
+
+.nav-btn {
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 8px 16px;
+    background-color: #ff6f61;
+    color: #ffffff;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.nav-btn:hover {
+    background-color: transparent;
+    color: #ff6f61;
+    border-color: #ff6f61;
+}
+
+.icon-cutlery {
+  font-size: 1.8rem; 
+  color: #ff6f61;
+  margin-right: 8px;
+}
+
