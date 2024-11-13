@@ -75,4 +75,5 @@ To learn more about the purpose and team behind IdeaFood:
 Visit the About section in the navigation menu.
 Read about the project's mission and the team working on it.
 
-## Live here:
+## Live here: 
+https://niranjan-foodrecipe.web.app/
