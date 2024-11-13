@@ -1,18 +1,20 @@
-# Getting Started with Create React App
+# IdeaFood(Food Idea Task)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TakeHome_FoodRI is a web application designed to provide users with access to various recipes. Users can view and share recipes, making cooking and discovering new dishes easy and accessible. This project leverages modern web technologies to ensure a responsive and user-friendly experience.
+## Features
 
-## Available Scripts
+1)Display of curated recipe collections.
+2)Search the recipes by letters.
+3)View the ingredients.
+4)Get the entire instructions for cooking.
+5)Contact Section if needed for any help
 
-In the project directory, you can run:
+### Technologies Used
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+HTML 
+CSS
+Javascript
+ReactJS
 
 ### `npm test`
 
