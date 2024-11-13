@@ -1,6 +1,6 @@
 # IdeaFood - Recipe Discovery Web App
 
-**IdeaFood** (formerly **TakeHome_FoodRI**) is a web application where users can browse and share recipes. Whether you're a beginner cook or a seasoned chef, IdeaFood makes discovering new recipes and culinary techniques easy and accessible.
+**IdeaFood** is a web application where users can browse the various recipes. Whether you're a beginner cook or a seasoned chef, IdeaFood makes discovering new recipes and culinary techniques easy and accessible.
 
 ## Features
 
