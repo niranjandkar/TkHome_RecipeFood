@@ -25,7 +25,8 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/niranjandkar/TakeHome_FoodRI.git
-cd TakeHome_FoodRI ```
+cd TakeHome_FoodRI
+```
 
 ### Step 2: Install Dependencies and Start the Application
 
@@ -34,6 +35,7 @@ Navigate to the project directory and install the necessary dependencies using n
 ```bash
 cd TakeHome_FoodRI
 npm install
+```
 
 ### Step 3: Start the React Application
 
@@ -41,6 +43,7 @@ After installing dependencies, you can start the application locally using the f
 
 ```bash
 npm start
+```
 
 This will start the development server and open the application in your default browser. If it doesn’t open automatically, you can navigate to http://localhost:3000 to view it.
 
