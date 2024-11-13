@@ -13,7 +13,7 @@
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, ReactJS
-- **Backend & Hosting**: Firebase (for static deployment)
+- **Hosting**: Firebase (for static deployment)
 
 ## Getting Started
 
