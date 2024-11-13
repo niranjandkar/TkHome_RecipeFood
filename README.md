@@ -76,4 +76,4 @@ Visit the About section in the navigation menu.
 Read about the project's mission and the team working on it.
 
 ## Live here: 
-https://niranjan-foodrecipe.web.app/
+React App: https://niranjan-foodrecipe.web.app/
