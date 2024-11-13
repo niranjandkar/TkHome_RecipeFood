@@ -1,6 +1,6 @@
-# IdeaFood - Recipe Discovery Web App
+# IdealFood - Recipe Discovery Web App
 
-**IdeaFood** is a web application where users can browse the various recipes. Whether you're a beginner cook or a seasoned chef, IdeaFood makes discovering new recipes and culinary techniques easy and accessible.
+**IdealFood** is a web application where users can browse the various recipes. Whether you're a beginner cook or a seasoned chef, IdeaFood makes discovering new recipes and culinary techniques easy and accessible.
 
 ## Features
 
