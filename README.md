@@ -25,7 +25,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/niranjandkar/TakeHome_FoodRI.git
-cd TakeHome_FoodRI
+cd TakeHome_FoodRI ```
 
 ### Step 2: Install Dependencies and Start the Application
 
