@@ -47,10 +47,10 @@ npm start
 
 This will start the development server and open the application in your default browser. If it doesn’t open automatically, you can navigate to http://localhost:3000 to view it.
 
-Step 4: Explore the Home Page
+### Step 4: Explore the Home Page
 Upon visiting the home page, you’ll see an overview of available recipes. You can explore the recipes displayed and view additional options.
 
-Step 5: Search Recipes by Letter
+### Step 5: Search Recipes by Letter
 To find recipes that start with a specific letter:
 
 Locate the search bar on the home page.
@@ -58,17 +58,18 @@ Enter a single letter (e.g., A) into the search bar.
 Press Enter or click the search button.
 This will display recipes that begin with the selected letter.
 
-Step 6: View Recipe Details
+### Step 6: View Recipe Details
 Once the search results are displayed, you can view additional details for each recipe:
 
 Click on See Recipe next to the desired recipe.
 The page will show the recipe’s ingredients and detailed cooking instructions.
-Step 7: Contact Us
+### Step 7: Contact Us
 If you need support or wish to provide feedback:
 
 Navigate to the Contact section from the navigation menu.
 Fill out the contact form or use the provided contact information.
-Step 8: Learn About Us
+
+### Step 8: Learn About Us
 To learn more about the purpose and team behind IdeaFood:
 
 Visit the About section in the navigation menu.
